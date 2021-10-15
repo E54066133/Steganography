@@ -1,5 +1,5 @@
 # Steganography
-hide message in a graph
+hide message in a graph 
 
 
 ## encode : 
