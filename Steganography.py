@@ -64,7 +64,7 @@ def hide(filename, message):
         return "Incorrect Image Mode, couldn't hide :("
 
 def retr(filename):
-    img = Image.open(filename)
+    img = Image.open(filename)      # Please change filename to your image name
     binary = ""
 
     if img.mode == 'RGBA':
