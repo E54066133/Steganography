@@ -7,3 +7,7 @@ Convert the message string and termination key to binary, and rewrite it into th
 
 ## decode :
 Read the LSB of the first few pixels of the picture until reaching the termination key, and convert the binary cipher into a string with ascii code.
+
+
+## annotation :
+Please change the "filename" in code to your image name.
